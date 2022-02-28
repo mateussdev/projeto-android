@@ -15,7 +15,7 @@ Aqui são as tecnologias usadas nesse projeto.
 * Github
 
 
-## Quando acessar, você verá essa página
+## Ao acessar, você verá esta página
 
 ![Homepage image](https://github.com/mateussdev/projeto-android/blob/main/imagens/readme/home.png)
 ![Page image](https://github.com/mateussdev/projeto-android/blob/main/imagens/readme/page-1.png)
